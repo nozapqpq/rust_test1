@@ -4,7 +4,7 @@
 - ChatGPTに全面的にお願いした
 - テストより先にコードを書いてしまった。とてもよろしくなさそう。
 
-## インストール方法
+## Rustのインストール方法(Windows)
 - 参考：https://qiita.com/RyugaDome/items/76fd9251f4885de69edd
 - Rustインストーラを公式からダウンロード
     https://doc.rust-jp.rs/book-ja/ch01-01-installation.html
